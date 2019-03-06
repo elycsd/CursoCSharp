@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercEstrutCond5", "ExercEstrutCond5\ExercEstrutCond5.csproj", "{DD420063-5A4E-4AE1-85A8-35683E036E9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD420063-5A4E-4AE1-85A8-35683E036E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD420063-5A4E-4AE1-85A8-35683E036E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD420063-5A4E-4AE1-85A8-35683E036E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD420063-5A4E-4AE1-85A8-35683E036E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EC4B3E9-71CA-468A-B8CA-E6403F357147}
+	EndGlobalSection
+EndGlobal
